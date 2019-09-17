@@ -1,0 +1,12 @@
+create pro-react:
+1- lazm akon mstab al nodejs 3lshan esh8al al npm
+2- in shell "npm create-react-app 'app-name'"
+3- 3shan run in sell "npm start"
+4- in shell "npm install react-router-dom" 
+// dh mn 5lalo a2der a3mel route ll events (3lshan el single-page)
+
+
+->aham files :
+src/App.js
+m4 mohmen(mmken ams7om) :
+App.css, App.test.js, index.js, logo.svg
